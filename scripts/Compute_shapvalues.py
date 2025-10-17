@@ -1,5 +1,5 @@
 """
-Scripts for computing shap values.
+Scripts to compute shap values.
 This code is based from the LLMs_in_perioperative_care repository.
 https://github.com/cja5553/LLMs_in_perioperative_care/blob/main/codes/model%20eXplainability/SHAP_implementation.ipynb
 """

@@ -37,3 +37,6 @@ Run the script "Testing_LLM.py".
 
 ## Computing Shap values
 Run the script "Compute_shapvalues.py".
+
+## Loading Shap values
+Run the script "Loading_shapvalues.py".

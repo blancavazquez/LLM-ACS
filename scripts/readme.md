@@ -12,7 +12,9 @@ Run the script:"selection_patients_without_ACS.py"
 
 * Then, you need create three separate folders with exclusive data of patients with STEMI, NSTEMI, and without ACS. Each folder should contain the same original structure of MIMIC-III. That is, each folder should included: admissions.csv, chartevents.csv, diagnoses_icd.csv, and so on.
 
-* Clone the [repositorio](https://github.com/YerevaNN/mimic3-benchmarks) and run all scripts until the step 4 for each folder of STEMI, NSTEMI, and patients without ACS. The target is to obtain the train and test datasets for each population.
+* Clone the [repository](https://github.com/YerevaNN/mimic3-benchmarks) and run all scripts until the step 4 for each folder of STEMI, NSTEMI, and patients without ACS. The target is to obtain the train and test datasets for each population.
 
-# Text scripts
-Run all files under "text scripts" folder.
+## Extract clinical notes
+Run all files under "text scripts" for each folder of STEMI, NSTEMI, and without ACS patients.
+
+

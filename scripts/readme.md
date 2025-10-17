@@ -34,3 +34,6 @@ Run the script "Testing_wordembeddings.py".
 
 ## Testing on external validation datasets (LLM)
 Run the script "Testing_LLM.py".
+
+## Computing Shap values
+Run the script "Compute_shapvalues.py".

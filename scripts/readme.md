@@ -29,8 +29,8 @@ Run the script "ML_wordembeddings.py". In our study, we trained: XGBoost, KNN, S
 ## Building multi-label classifiers using pretrained LLM models
 Run the script "ML_LLM.py". In our study, we trained: XGBoost, KNN, SVM, and LR.
 
-# Testing on external validation datasets (Word embeddings)
+## Testing on external validation datasets (Word embeddings)
 Run the script "Testing_wordembeddings.py".
 
-# Testing on external validation datasets (LLM)
+## Testing on external validation datasets (LLM)
 Run the script "Testing_LLM.py".

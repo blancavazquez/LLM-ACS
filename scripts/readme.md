@@ -23,6 +23,9 @@ Run the script "Training_wordembedding.py". In our study, we trained: SkipGram, 
 ## Fine-tuning LLM
 Run the script "Training_LLM.py". In our study, we trained: BERT, BioClinicalBert, BioBert, and BioGPT.
 
-## Building multi-label classifier using pretrained LLM models
+## Building multi-label classifiers using trained word embeddings models
+Run the script "WordEmbeddings_MLmodels.py". In our study, we trained: XGBoost, KNN, SVM, and LR.
+
+## Building multi-label classifiers using pretrained LLM models
 Run the script "LLM_MLmodels.py". In our study, we trained: XGBoost, KNN, SVM, and LR.
 

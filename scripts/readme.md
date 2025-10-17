@@ -14,7 +14,7 @@ Run the script:"selection_patients_without_ACS.py"
 
 * Clone the [repository](https://github.com/YerevaNN/mimic3-benchmarks) and run all scripts until the step 4 for each folder of STEMI, NSTEMI, and patients without ACS. The target is to obtain the train and test datasets for each population.
 
-## Extract clinical notes
+## Extraction of clinical notes
 Run all files under "text scripts" for each folder of STEMI, NSTEMI, and without ACS patients.
 
 ## Training word embeddings models

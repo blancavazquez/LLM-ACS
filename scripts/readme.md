@@ -5,7 +5,7 @@ To perform all steps, you need to have access to the MIMIC-III database and down
 Run the script "1selection_subject_ids.sql" available in the [repository](https://github.com/blancavazquez/Riskmarkers_ACS/blob/master/sql_extraction/stemi/1selection_subject_ids.sql)
 
 ## Selection of NSTEMI patients
-Run the script "1_selection_patNSTEMI.sql" available in the [repository]([https://github.com/blancavazquez/Riskmarkers_ACS/blob/master/sql_extraction/stemi/1selection_subject_ids.sql](https://github.com/blancavazquez/Riskmarkers_ACS/blob/master/sql_extraction/nstemi/1_selection_patNSTEMI.sql)
+Run the script "1_selection_patNSTEMI.sql" available in the [repository]([https://github.com/blancavazquez/Riskmarkers_ACS/blob/master/sql_extraction/stemi/1selection_subject_ids.sql)(https://github.com/blancavazquez/Riskmarkers_ACS/blob/master/sql_extraction/nstemi/1_selection_patNSTEMI.sql)
 
 ## Selection of patients without ACS
 Run the script:"selection_patients_without_ACS.py" 

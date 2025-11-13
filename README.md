@@ -1,5 +1,5 @@
-# Leveraging Large Language for Major Adverse Cardiovascular Events Predictions in Patients with Acute Coronary Syndrome
-This repository contains scripts to develop a model to predict multiple major adverse cardiovascular events (MACE) in patients with STEMI and NSTEMI by exploiting the information described in clinical notes and leveraging the capabilities of large language model (LLM) in the early identification of patient at risk. The results are reported in the paper "Leveraging Large Language for Major Adverse Cardiovascular Events Predictions in Patients with Acute Coronary Syndrome" presented by Blanca Vazquez.
+# Large Language Models for Early Prediction of Multiple Major Adverse Cardiovascular Events in Patients with Acute Coronary Syndrome
+This repository contains scripts to develop a model to predict multiple major adverse cardiovascular events (MACE) in patients with STEMI and NSTEMI by exploiting the information described in clinical notes and leveraging the capabilities of large language model (LLM) in the early identification of patient at risk. The results are reported in the paper "Large Language Models for Early Prediction of Multiple Major Adverse Cardiovascular Events in Patients with Acute Coronary Syndrome" presented by Blanca Vazquez.
 
 # Requirements:
 
